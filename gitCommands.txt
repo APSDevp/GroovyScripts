@@ -2,4 +2,6 @@
 https://stackoverflow.com/questions/36079884/count-git-commits-per-period
 
 https://remarkablemark.org/blog/2020/06/05/check-git-repository/
+
+git rev-parse --is-inside-work-tree
  git shortlog -s -n --since=7.days  -- to get the commit for 7 days
