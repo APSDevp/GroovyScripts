@@ -1,0 +1,1 @@
+ git shortlog -s -n --since=7.days  -- to get the commit for 7 days
